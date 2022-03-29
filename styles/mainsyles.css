@@ -1,1 +1,8 @@
-hello
+.header {
+    width: 100%;
+    height: 82px;
+    background-color: #0b508d;
+}
+body{
+    margin: 0;
+}
